@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋  Hi, I am Jhon Poma - @jhon2301922021
 
-<!--
-**jhon2301922021/jhon2301922021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Datascience from Peru. My prime expertise include Machine learning and Deep learning  but I also like to play around a little with [Flutter](https://flutter.dev/), [GCP](https://www.rust-lang.org/), and Python.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ✨ My Expertise
+- Python
+- Sklearn
+- Pandas
+- Tensorflow
+- CNN
+- NLP
+- GCP
+
+
+
+## 💌 Get in touch
+- Linkedin: [@jhonPoma](https://www.linkedin.com/in/jhon-poma/)
