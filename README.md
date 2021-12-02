@@ -1,6 +1,6 @@
 # 👋  Hi, I am Jhon Poma - @jhon2301922021
 
-I am a Datas Driven from Peru. My prime expertise include Data Scientist with experience in the development of Machine Learning projects applying descriptive and inferential statistics and linear algebra with python and sklearn; Artificial Intelligence with tensorflow, Mlflow, Neural Networks, RNNs, CNNs, NLP; and Data Engineering with pipelines, heroku, docker and flask Api. My main strengths are analytical thinking, logical and algorithmic thinking, technological and innovative to respond to the uncertainty and complexity of the environment.
+I am a data scientist from Peru. My prime expertise include Data Scientist with experience in the development of Machine Learning projects applying descriptive and inferential statistics and linear algebra with python and sklearn; Artificial Intelligence with tensorflow, Mlflow, Neural Networks, RNNs, CNNs, NLP; and Data Engineering with pipelines, heroku, docker and flask Api. My main strengths are analytical thinking, logical and algorithmic thinking, technological and innovative to respond to the uncertainty and complexity of the environment.
 
 
 
