@@ -21,3 +21,5 @@ I am a data scientist from Peru. My prime expertise include Data Scientist with 
 
 ## 💌 Get in touch
 - Linkedin: [@jhonPoma](https://www.linkedin.com/in/jhon-poma/)
+- mail:jhon.efrainpr01@gmail.com
+- Telefono:+51943073277
